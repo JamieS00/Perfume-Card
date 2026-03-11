@@ -9,16 +9,28 @@ body {
   gap: 50px;
   background-color: white;
 }
+.perfume {
+  font-family: "Montserrat", sans-serif;
+  letter-spacing: 3px;
+}
 
 .container p {
   color: hsl(228, 12%, 48%);
+  font-size: 14px;
 }
 .container h1 {
   color: hsl(212, 21%, 14%);
+  font-family: "Fraunces", serif;
 }
 
-.price {
+.price .p1 {
   color: hsl(158, 36%, 37%);
+  font-family: "Fraunces", serif;
+  font-weight: 700;
+}
+.price .p2 {
+  color: hsl(228, 12%, 48%);
+  text-decoration: line-through;
 }
 
 button {
