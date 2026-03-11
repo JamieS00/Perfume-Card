@@ -1,6 +1,31 @@
+body {
+  background-color: hsl(30, 38%, 92%);
+}
 .container {
   border: 1px solid blue;
   border-radius: 10px;
-  padding: 20px 50px;
+  margin: 50px;
   display: flex;
+  gap: 50px;
+  background-color: white;
+}
+
+.container p {
+  color: hsl(228, 12%, 48%);
+}
+.container h1 {
+  color: hsl(212, 21%, 14%);
+}
+
+.price {
+  color: hsl(158, 36%, 37%);
+}
+
+button {
+  margin-top: 10px;
+  color: white;
+  background-color: hsl(158, 36%, 37%);
+  border: 1px solid hsl(158, 36%, 37%);
+  border-radius: 5px;
+  padding: 12px 50px;
 }
