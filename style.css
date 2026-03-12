@@ -67,6 +67,9 @@ button {
   border-radius: 5px;
   padding: 12px 50px;
 }
+button:hover {
+  cursor: pointer;
+}
 
 .attribution {
   text-align: center;
