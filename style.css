@@ -7,7 +7,7 @@ body {
   max-width: 600px;
   margin: 100px auto;
   display: flex;
-  overflow: hidden;
+  overflow: hidden; /** ensure img doesnt extend out container**/
 }
 .contain-left img {
   width: 100%;
@@ -35,13 +35,20 @@ body {
   color: hsl(212, 21%, 14%);
   font-family: "Fraunces", serif;
 }
+span {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
 
 .price .p1 {
   color: hsl(158, 36%, 37%);
   font-family: "Fraunces", serif;
   font-weight: 700;
+  font-size: 30px;
 }
 .price .p2 {
+  font-size: 15px;
   color: hsl(228, 12%, 48%);
   text-decoration: line-through;
 }
