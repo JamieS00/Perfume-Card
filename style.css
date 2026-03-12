@@ -60,12 +60,13 @@ span {
 }
 
 button {
-  margin-top: 10px;
   color: white;
   background-color: hsl(158, 36%, 37%);
   border: 1px solid hsl(158, 36%, 37%);
   border-radius: 5px;
-  padding: 12px 50px;
+  padding: 15px 80px;
+  display: flex;
+  gap: 10px;
 }
 button:hover {
   cursor: pointer;
