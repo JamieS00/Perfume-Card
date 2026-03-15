@@ -78,3 +78,11 @@ button:hover {
 .attribution {
   text-align: center;
 }
+
+/* Mobile(<)Responsiveness* */
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+    margin: 10px;
+  }
+}
