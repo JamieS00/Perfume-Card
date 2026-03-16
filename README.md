@@ -10,8 +10,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
 
 ## Overview
 
@@ -28,7 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+<!-- - Solution URL: [Add solution URL here](https://your-solution-url.com) -->
+
 - Live Site URL: [Live Site](https://jamies00.github.io/Perfume-Card/)
 
 ## My process
