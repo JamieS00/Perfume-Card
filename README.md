@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [https://jamies00.github.io/Perfume-Card/]
+- Live Site URL: [Live Site](https://jamies00.github.io/Perfume-Card/)
 
 ## My process
 
