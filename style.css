@@ -41,13 +41,16 @@ body {
   font-family: "Fraunces", serif;
 }
 
-span {
+/* div  {
   display: flex;
   align-items: center;
   gap: 20px;
-}
+} */
 .price {
   margin-top: 10px;
+  display: flex;
+  align-items: center;
+  gap: 20px;
 }
 
 .price .p1 {
